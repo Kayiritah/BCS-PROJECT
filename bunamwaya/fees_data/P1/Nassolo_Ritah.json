@@ -1,0 +1,21 @@
+{
+    "pupil": "Nassolo Ritah",
+    "class": "P.1",
+    "term": "Term I 2026",
+    "total_fee": 450000,
+    "total_paid": 400000,
+    "balance": 50000,
+    "history": [
+        {
+            "date": "2026-09-14 22:26:55",
+            "term": "Term I 2026",
+            "amount": 400000,
+            "method": "Cash",
+            "receipt": "RCP-P120260914-5210",
+            "received_by": "Bursar"
+        }
+    ],
+    "last_receipt": "RCP-P120260914-5210",
+    "last_date": "2026-09-14 22:26:55",
+    "parent_phone": "0774869234"
+}

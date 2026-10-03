@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Admin",
+        "username": "admin",
+        "password": "$2y$10$bdxVHs7OsIvS6b6Hw3smFeoZMokzOPYwXJf993yS4E2bi.mWigTa6",
+        "role": "Admin",
+        "phone": "0772896922",
+        "email": "bunamwayacentralparentsschool@gmail.com",
+        "date": "2026-09-14 21:41:21"
+    },
+    {
+        "id": 1789414964,
+        "name": "ritah",
+        "username": "yitu",
+        "password": "$2y$10$yzmUVr9N2Leue.g7MKhtYOqvxdeEzDuWOekJvo75mSy7sGoL1MYoG",
+        "role": "Head Teacher",
+        "phone": "07724566351",
+        "email": "ritah@gmail.com",
+        "date": "2026-09-14 21:42:44"
+    }
+]

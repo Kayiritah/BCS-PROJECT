@@ -1,0 +1,20 @@
+{
+    "pupil": "Ritah",
+    "class": "P.1",
+    "term": "Term I 2025",
+    "total_fee": 450000,
+    "total_paid": 300000,
+    "balance": 150000,
+    "history": [
+        {
+            "date": "2026-09-14 21:35:38",
+            "term": "Term I 2025",
+            "amount": 300000,
+            "method": "Cash",
+            "receipt": "RCP-P120260914-2712",
+            "received_by": "Bursar"
+        }
+    ],
+    "last_receipt": "RCP-P120260914-2712",
+    "last_date": "2026-09-14 21:35:38"
+}
